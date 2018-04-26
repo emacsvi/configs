@@ -1,0 +1,954 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/golang/src/cliapp/g/cfg.go" timestamp="1524634866538">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-updater/http/common.go" timestamp="1523773735468">
+        <mark key="'" line="19" column="16" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/cron/initEvents.go" timestamp="1523863670126">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/g/cfg.go" timestamp="1524039180359">
+        <mark key="'" line="83" column="5" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/model/contracts.go" timestamp="1524559002735">
+        <mark key="'" line="58" column="28" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/commands/command.go" timestamp="1523344287806">
+        <mark key="'" line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus/modules/graph/rrdtool/migrate.go" timestamp="1523801925185">
+        <mark key="'" line="306" column="30" />
+      </file>
+      <file name="/usr/local/go/src/os/exec/exec.go" timestamp="1523200150937">
+        <mark key="'" line="341" column="20" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gx/ipfs/QmXauCuJzmzapetmC6W4TuDJLL1yFFrVzSHoWv8YdbmnxH/go-libp2p-peerstore/peerstore.go" timestamp="1523337707553">
+        <mark key="'" line="188" column="24" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/repo/config/init.go" timestamp="1523340557437">
+        <mark key="'" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/g/const.go" timestamp="1524634463121">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/core/core.go" timestamp="1523338049618">
+        <mark key="'" line="313" column="30" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/repo/onlyone.go" timestamp="1523345538337">
+        <mark key="'" line="70" column="19" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/model/block.go" timestamp="1524473825212">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="157" column="13" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ethereum/go-ethereum/core/blockchain_test.go" timestamp="1524454335124">
+        <mark key="'" line="1396" column="49" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/cmd/config.go" timestamp="1524561549310">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/cron/check_block.go" timestamp="1524475841568">
+        <mark key="'" line="19" column="22" />
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcdaemon/web.go" timestamp="1524638336509">
+        <mark key="'" line="36" column="8" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcdaemon/gosuv.go" timestamp="1524637468154">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/repo/config/bootstrap_peers.go" timestamp="1523347133310">
+        <mark key="'" line="58" column="28" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ethereum/go-ethereum/core/types/transaction.go" timestamp="1524454235825">
+        <mark key="'" line="126" column="12" />
+      </file>
+      <file name="/usr/local/Cellar/go/1.10/libexec/src/net/http/server.go" timestamp="1523762193557">
+        <mark key="'" line="2379" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gx/ipfs/QmfAkMSt9Fwzk48QDJecPcwCUjnf2uG7MLnmCGTp4C6ouL/go-ipfs-cmds/command.go" timestamp="1523343756827">
+        <mark key="'" line="43" column="14" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/g/comm.go" timestamp="1524634741165">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/cfg.json" timestamp="1524041725774">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/golang/src/somecodes/funcs/big_int.go" timestamp="1524640556485">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="12" column="21" />
+        <mark key="^" line="16" column="41" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/cmd/root.go" timestamp="1524561577517">
+        <mark key="'" line="13" column="57" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/http/admin.go" timestamp="1524561962904">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/model/transaction.go" timestamp="1524476101551">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/http/http.go" timestamp="1524559424756">
+        <mark key="'" line="22" column="27" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="29" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcdaemon/cmds.go" timestamp="1524633727641">
+        <mark key="'" line="85" column="8" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/beego/admin/conf/app.conf" timestamp="1524192442910">
+        <mark key="'" line="21" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/main.go" timestamp="1524472704131">
+        <mark key="'" line="64" column="16" />
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="65" column="27" />
+        <mark key="." line="65" column="27" />
+        <mark key="^" line="65" column="27" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ethereum/go-ethereum/core/types/transaction_signing.go" timestamp="1524450887917">
+        <mark key="'" line="109" column="5" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/model/tx.go" timestamp="1523956784347">
+        <mark key="'" line="8" column="12" />
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="36" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="13" column="36" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/worker/worker.go" timestamp="1524043995865">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/toolkits/cache/init.go" timestamp="1523790247821">
+        <mark key="'" line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/golang/src/somecodes/funcs/tmgo.go" timestamp="1523860662873">
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="25" />
+        <mark key="^" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/main.go" timestamp="1524635276788">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/kardianos/service/service_systemd_linux.go" timestamp="1523080095246">
+        <mark key="'" line="59" column="25" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-updater/cron/start.go" timestamp="1523778329834">
+        <mark key="'" line="32" column="16" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs-api/shell.go" timestamp="1523864754969">
+        <mark key="'" line="69" column="14" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gopkg.in/mgo.v2/session.go" timestamp="1523586783710">
+        <mark key="'" line="263" column="19" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/sender/redis/redis.go" timestamp="1523779412356">
+        <mark key="'" line="11" column="5" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ethereum/go-ethereum/p2p/discover/node.go" timestamp="1523090208923">
+        <mark key="'" line="307" column="37" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/cron/sync_blocks.go" timestamp="1524475637236">
+        <mark key="'" line="67" column="17" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="66" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/repo/config/config.go" timestamp="1523349243384">
+        <mark key="'" line="16" column="15" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/repo/fsrepo/datastores.go" timestamp="1523330672415">
+        <mark key="'" line="81" column="11" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/kardianos/service/example/simple/main.go" timestamp="1523452017187">
+        <mark key="'" line="49" column="4" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gx/ipfs/QmfAkMSt9Fwzk48QDJecPcwCUjnf2uG7MLnmCGTp4C6ouL/go-ipfs-cmds/executor.go" timestamp="1523341895031">
+        <mark key="'" line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/g/logger.go" timestamp="1524634561990">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-updater/cron/response.go" timestamp="1523778336218">
+        <mark key="'" line="30" column="22" />
+      </file>
+      <file name="$USER_HOME$/golang/src/mgweb/routers/router.go" timestamp="1524203359345">
+        <mark key="'" line="8" column="45" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/repo/fsrepo/fsrepo.go" timestamp="1523345577904">
+        <mark key="'" line="452" column="45" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-updater/cron/stop.go" timestamp="1523778110042">
+        <mark key="'" line="54" column="21" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus/modules/graph/rrdtool/rrdtool.go" timestamp="1523802029240">
+        <mark key="'" line="24" column="29" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/model/gorm.go" timestamp="1523863326615">
+        <mark key="'" line="39" column="9" />
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/http/tokenController.go" timestamp="1523863296171">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gx/ipfs/QmfAkMSt9Fwzk48QDJecPcwCUjnf2uG7MLnmCGTp4C6ouL/go-ipfs-cmds/request.go" timestamp="1523343800303">
+        <mark key="'" line="27" column="126" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/beego/admin/admin.go" timestamp="1524192428899">
+        <mark key="'" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-common/utils/system.go" timestamp="1523777196285">
+        <mark key="'" line="12" column="25" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gx/ipfs/QmaG4DZ4JaqEfvPWt5nPPgoTzhc1tr1T3f4Nu9Jpdm8ymY/go-ipfs-blockstore/caching.go" timestamp="1523337905505">
+        <mark key="'" line="46" column="21" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus/modules/agent/main.go" timestamp="1523760644572">
+        <mark key="'" line="40" column="26" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-updater/g/var.go" timestamp="1523760995911">
+        <mark key="'" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gx/ipfs/QmfAkMSt9Fwzk48QDJecPcwCUjnf2uG7MLnmCGTp4C6ouL/go-ipfs-cmds/cli/run.go" timestamp="1523342280977">
+        <mark key="'" line="34" column="25" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/http/health.go" timestamp="1524561970224">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcdaemon/vendor/github.com/kardianos/service/service.go" timestamp="1524638498272">
+        <mark key="'" line="257" column="18" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/config/cfg.json" timestamp="1524634875761">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/core/builder.go" timestamp="1523338044058">
+        <mark key="'" line="240" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-updater/cron/request.go" timestamp="1523777333159">
+        <mark key="'" line="39" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gx/ipfs/QmfAkMSt9Fwzk48QDJecPcwCUjnf2uG7MLnmCGTp4C6ouL/go-ipfs-cmds/cli/parse_test.go" timestamp="1523342219764">
+        <mark key="'" line="216" column="58" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/cfg.json" timestamp="1524634651392">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="12" column="67" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/g/redis.go" timestamp="1524558455960">
+        <mark key="'" line="32" column="5" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="13" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/woker/woker.go" timestamp="1524043627870">
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/path/resolver/resolver.go" timestamp="1523338017435">
+        <mark key="'" line="50" column="24" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gx/ipfs/QmZoWKhxUmZ2seW4BzX6fJkNR8hh9PsGModr7q171yq2SS/go-libp2p-peer/peer.go" timestamp="1523337748743">
+        <mark key="'" line="161" column="20" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-meta/http/common.go" timestamp="1523774651632">
+        <mark key="'" line="25" column="20" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-updater/cron/heartbeat.go" timestamp="1523777442291">
+        <mark key="'" line="68" column="24" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/soopsio/kexec/kexec_posix.go" timestamp="1523181652582">
+        <mark key="'" line="26" column="20" />
+      </file>
+      <file name="/usr/local/Cellar/go/1.10/libexec/src/os/exec/exec.go" timestamp="1523160335824">
+        <mark key="'" line="150" column="43" />
+      </file>
+      <file name="$USER_HOME$/golang/src/somecodes/main.go" timestamp="1524033414032">
+        <mark key="'" line="17" column="12" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="6" />
+        <mark key="^" line="16" column="6" />
+        <mark key="." line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/http/controller.go" timestamp="1524560644643">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-updater/main.go" timestamp="1523773600617">
+        <mark key="'" line="23" column="19" />
+      </file>
+      <file name="$USER_HOME$/golang/src/somecodes/funcs/bolt.go" timestamp="1523860927831">
+        <mark key="'" line="51" column="9" />
+        <mark key="[" line="119" column="11" />
+        <mark key="]" line="119" column="11" />
+        <mark key="^" line="119" column="13" />
+        <mark key="." line="119" column="11" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/redis/msg_reader.go" timestamp="1523951729385">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/cmd/toyaml.go" timestamp="1524561597163">
+        <mark key="'" line="15" column="12" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-meta/http/heartbeat.go" timestamp="1523775547576">
+        <mark key="'" line="37" column="24" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ethereum/go-ethereum/accounts/abi/bind/base.go" timestamp="1524555795123">
+        <mark key="'" line="240" column="27" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/exchange/reprovide/providers.go" timestamp="1523338053730">
+        <mark key="'" line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/cron/dispatcher.go" timestamp="1524101194917">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="9" column="62" />
+        <mark key="]" line="9" column="62" />
+        <mark key="." line="9" column="62" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gx/ipfs/QmaG4DZ4JaqEfvPWt5nPPgoTzhc1tr1T3f4Nu9Jpdm8ymY/go-ipfs-blockstore/blockstore.go" timestamp="1523337835020">
+        <mark key="'" line="22" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/fe/http/uic/uic_routes.go" timestamp="1523790046824">
+        <mark key="'" line="29" column="4" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/sender/redis/pop.go" timestamp="1523779532703">
+        <mark key="'" line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/model/nonce.go" timestamp="1524558733029">
+        <mark key="'" line="53" column="57" />
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="55" column="20" />
+        <mark key="^" line="55" column="20" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/beego/beeweb/beeweb.go" timestamp="1523604804693">
+        <mark key="'" line="39" column="19" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/worker/dispatcher.go" timestamp="1524100734091">
+        <mark key="'" line="26" column="26" />
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/cmd/init.go" timestamp="1524627738140">
+        <mark key="'" line="459" column="29" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gx/ipfs/QmfAkMSt9Fwzk48QDJecPcwCUjnf2uG7MLnmCGTp4C6ouL/go-ipfs-cmds/cli/parse.go" timestamp="1523343410980">
+        <mark key="'" line="26" column="94" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus/modules/alarm/cron/sms_sender.go" timestamp="1523950931645">
+        <mark key="'" line="38" column="17" />
+      </file>
+      <file name="$USER_HOME$/golang/src/hello/conf/app.conf" timestamp="1524192492192">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcdaemon/bcdaemon.go" timestamp="1523522216143">
+        <mark key="'" line="233" column="29" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfsstore/cron/dispatcher.go" timestamp="1524043022231">
+        <mark key="'" line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/cron/rawtransactions.go" timestamp="1524559625813">
+        <mark key="'" line="213" column="27" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus/modules/alarm/redi/msg_reader.go" timestamp="1523950783986">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+      </file>
+      <file name="$USER_HOME$/golang/src/opms/conf/app.conf" timestamp="1524211971251">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ethereum/go-ethereum/node/config.go" timestamp="1522982654770">
+        <mark key="'" line="334" column="27" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-meta/g/cfg.go" timestamp="1523774607098">
+        <mark key="'" line="60" column="14" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/vendor/github.com/ethereum/go-ethereum/ethclient/ethclient.go" timestamp="1524449776284">
+        <mark key="'" line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/boltdb/bolt/db.go" timestamp="1523862482225">
+        <mark key="'" line="589" column="18" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/fe/http/http.go" timestamp="1523790043253">
+        <mark key="'" line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ethereum/go-ethereum/common/types_test.go" timestamp="1524033790871">
+        <mark key="'" line="115" column="24" />
+      </file>
+      <file name="/usr/local/go/src/os/file.go" timestamp="1522745763679">
+        <mark key="'" line="266" column="5" />
+      </file>
+      <file name="$USER_HOME$/golang/src/hello/routers/router.go" timestamp="1524192434187">
+        <mark key="'" line="4" column="22" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/kardianos/service/service_unix.go" timestamp="1523363952756">
+        <mark key="'" line="16" column="35" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/cmd/ipfs.go" timestamp="1524634349980">
+        <mark key="'" line="296" column="14" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/kardianos/service/service_linux.go" timestamp="1523363908735">
+        <mark key="'" line="48" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/kardianos/service/service.go" timestamp="1523433954615">
+        <mark key="'" line="136" column="19" />
+      </file>
+      <file name="$USER_HOME$/golang/src/mgweb/controllers/Login.go" timestamp="1524194394606">
+        <mark key="'" line="41" column="15" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/cron/txs_sender.go" timestamp="1524559327039">
+        <mark key="'" line="23" column="15" />
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/g/rpc.go" timestamp="1524561951528">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus/modules/alarm/cron/callback.go" timestamp="1523948419625">
+        <mark key="'" line="43" column="17" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/model/record_block.go" timestamp="1524475086838">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="87" column="39" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ethereum/go-ethereum/internal/ethapi/api.go" timestamp="1524555974100">
+        <mark key="'" line="1172" column="20" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/core/commands/id.go" timestamp="1523348299253">
+        <mark key="'" line="65" column="45" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/beego/beeweb/models/products.go" timestamp="1523606613298">
+        <mark key="'" line="53" column="11" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/blockchain/common.go" timestamp="1523863121941">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/golang/src/mgweb/controllers/Main.go" timestamp="1524203362019">
+        <mark key="'" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcdaemon/service.go" timestamp="1524638486176">
+        <mark key="'" line="68" column="30" />
+        <mark key="[" line="52" column="22" />
+        <mark key="]" line="52" column="22" />
+        <mark key="." line="52" column="22" />
+        <mark key="^" line="51" column="31" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/cmd/ipfs/daemon.go" timestamp="1523338738739">
+        <mark key="'" line="229" column="19" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcdaemon/main.go" timestamp="1524638001455">
+        <mark key="'" line="99" column="7" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/toolkits/file/file.go" timestamp="1523761000430">
+        <mark key="'" line="30" column="26" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-updater/http/http.go" timestamp="1523762229110">
+        <mark key="'" line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ethereum/go-ethereum/mobile/ethclient.go" timestamp="1524555862232">
+        <mark key="'" line="310" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/g/logger.go" timestamp="1524634738169">
+        <mark key="'" line="13" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/cmd/ipfs/ipfs.go" timestamp="1523343850592">
+        <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/core/commands/root.go" timestamp="1523348267144">
+        <mark key="'" line="122" column="34" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/kardianos/osext/osext.go" timestamp="1523761573811">
+        <mark key="'" line="26" column="17" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/kardianos/service/example/runner/runner.go" timestamp="1523427958456">
+        <mark key="'" line="164" column="13" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-meta/store/agents.go" timestamp="1523776008437">
+        <mark key="'" line="115" column="32" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/tendermint/tendermint/types/block.go" timestamp="1524103034473">
+        <mark key="'" line="118" column="16" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/vendor/github.com/ethereum/go-ethereum/core/types/block.go" timestamp="1524454398208">
+        <mark key="'" line="147" column="26" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/g/common.go" timestamp="1524634748175">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="145" column="1" />
+        <mark key="^" line="141" column="0" />
+        <mark key="." line="142" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/fe/cache/cache.go" timestamp="1523790269084">
+        <mark key="'" line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/woker/dispatcher.go" timestamp="1524043894994">
+        <mark key="'" line="8" column="50" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ethereum/ecp/main.go" timestamp="1524025494293">
+        <mark key="'" line="105" column="32" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/contracts/imstore/imstore_api.go" timestamp="1523957546031">
+        <mark key="'" line="47" column="5" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/ipfs/ipfs.go" timestamp="1524558499390">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="23" column="13" />
+        <mark key="^" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus/modules/agent/funcs/checker.go" timestamp="1523760657068">
+        <mark key="'" line="33" column="32" />
+      </file>
+      <file name="$USER_HOME$/golang/src/mgweb/conf/app.conf" timestamp="1524199720590">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/g/g.go" timestamp="1524561927889">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/soopsio/kexec/kexec.go" timestamp="1523179070564">
+        <mark key="'" line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus/modules/alarm/redi/msg_writer.go" timestamp="1523948401365">
+        <mark key="'" line="34" column="5" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/redis/msg_writer.go" timestamp="1524042525292">
+        <mark key="'" line="28" column="18" />
+        <mark key="[" line="18" column="55" />
+        <mark key="]" line="18" column="56" />
+        <mark key="^" line="18" column="56" />
+        <mark key="." line="18" column="56" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/vendor/github.com/ethereum/go-ethereum/core/types/transaction.go" timestamp="1524452450289">
+        <mark key="'" line="178" column="82" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-common/model/updater.go" timestamp="1523777466978">
+        <mark key="'" line="35" column="16" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus/modules/api/main.go" timestamp="1523800708586">
+        <mark key="'" line="77" column="20" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus/vendor/github.com/toolkits/nux/portstat.go" timestamp="1523760586559">
+        <mark key="'" line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/cmd/serve.go" timestamp="1524561585317">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/g/cfg.go" timestamp="1524634687646">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="45" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/cmd/start.go" timestamp="1524561593309">
+        <mark key="'" line="257" column="49" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/open-falcon/sender/main.go" timestamp="1523779505616">
+        <mark key="'" line="35" column="13" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ethereum/go-ethereum/accounts/keystore/keystore_passphrase.go" timestamp="1523956395705">
+        <mark key="'" line="163" column="48" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcgateway/main.go" timestamp="1524559421333">
+        <mark key="'" line="66" column="14" />
+        <mark key="[" line="57" column="19" />
+        <mark key="]" line="58" column="23" />
+        <mark key="." line="58" column="23" />
+        <mark key="^" line="58" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs/core/commands/config.go" timestamp="1523342096419">
+        <mark key="'" line="59" column="23" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bcexplorer/blockchain/eth.go" timestamp="1524449957120">
+        <mark key="'" line="78" column="24" />
+      </file>
+      <file name="$USER_HOME$/golang/src/github.com/Cepave/ops-meta/http/http.go" timestamp="1523774711351">
+        <mark key="'" line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/golang/src/mgweb/models/mongo.go" timestamp="1524199608944">
+        <mark key="'" line="22" column="54" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gx/ipfs/QmceUdzxkimdYsgtX733uNgzf1DLHyBKN6ehGSp85ayppM/go-ipfs-cmdkit/option.go" timestamp="1523343546000">
+        <mark key="'" line="149" column="12" />
+      </file>
+      <file name="$USER_HOME$/golang/src/gx/ipfs/QmQViVWBHbU6HmYjXcdNq7tVASCNgdg64ZGcauuDkLCivW/go-ipfs-addr/ipfsaddr.go" timestamp="1523347037002">
+        <mark key="'" line="19" column="25" />
+      </file>
+      <file name="$USER_HOME$/golang/src/cliapp/http/http.go" timestamp="1524561976959">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="18" column="24" filename="$USER_HOME$/golang/src/bcgateway/ipfs/ipfs.go" />
+      <jump line="28" column="28" filename="$USER_HOME$/golang/src/bcgateway/ipfs/ipfs.go" />
+      <jump line="10" column="4" filename="$USER_HOME$/golang/src/bcgateway/ipfs/ipfs.go" />
+      <jump line="48" column="25" filename="$USER_HOME$/golang/src/bcgateway/main.go" />
+      <jump line="52" column="23" filename="$USER_HOME$/golang/src/bcgateway/main.go" />
+      <jump line="56" column="14" filename="$USER_HOME$/golang/src/bcgateway/main.go" />
+      <jump line="57" column="14" filename="$USER_HOME$/golang/src/bcgateway/main.go" />
+      <jump line="48" column="30" filename="$USER_HOME$/golang/src/bcgateway/cron/init_events.go" />
+      <jump line="53" column="57" filename="$USER_HOME$/golang/src/bcgateway/model/nonce.go" />
+      <jump line="21" column="10" filename="$USER_HOME$/golang/src/bcgateway/cron/init_events.go" />
+      <jump line="22" column="14" filename="$USER_HOME$/golang/src/bcgateway/cron/init_events.go" />
+      <jump line="33" column="34" filename="$USER_HOME$/golang/src/bcgateway/cron/init_events.go" />
+      <jump line="58" column="28" filename="$USER_HOME$/golang/src/bcgateway/model/contracts.go" />
+      <jump line="58" column="18" filename="$USER_HOME$/golang/src/bcgateway/main.go" />
+      <jump line="10" column="22" filename="$USER_HOME$/golang/src/bcgateway/cron/txs_sender.go" />
+      <jump line="16" column="17" filename="$USER_HOME$/golang/src/bcgateway/cron/txs_sender.go" />
+      <jump line="23" column="15" filename="$USER_HOME$/golang/src/bcgateway/cron/txs_sender.go" />
+      <jump line="66" column="14" filename="$USER_HOME$/golang/src/bcgateway/main.go" />
+      <jump line="22" column="27" filename="$USER_HOME$/golang/src/bcgateway/http/http.go" />
+      <jump line="213" column="27" filename="$USER_HOME$/golang/src/bcgateway/cron/rawtransactions.go" />
+      <jump line="30" column="0" filename="$USER_HOME$/golang/src/cliapp/main.go" />
+      <jump line="2" column="22" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="18" column="8" filename="$USER_HOME$/golang/src/cliapp/cmd/ipfs.go" />
+      <jump line="27" column="57" filename="$USER_HOME$/golang/src/cliapp/cmd/root.go" />
+      <jump line="271" column="49" filename="$USER_HOME$/golang/src/cliapp/cmd/start.go" />
+      <jump line="15" column="12" filename="$USER_HOME$/golang/src/cliapp/cmd/toyaml.go" />
+      <jump line="25" column="0" filename="$USER_HOME$/golang/src/cliapp/main.go" />
+      <jump line="411" column="14" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="413" column="26" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="70" column="36" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="37" column="20" filename="$USER_HOME$/golang/src/cliapp/g/cfg.go" />
+      <jump line="36" column="21" filename="$USER_HOME$/golang/src/cliapp/g/cfg.go" />
+      <jump line="78" column="20" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="185" column="4" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="16" column="3" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="407" column="0" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="409" column="5" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="25" column="10" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="408" column="5" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="35" column="10" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="32" column="0" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="30" column="12" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="26" column="12" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="417" column="37" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="167" column="28" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="177" column="33" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="82" column="14" filename="$USER_HOME$/golang/src/cliapp/cmd/ipfs.go" />
+      <jump line="426" column="37" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="223" column="37" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="430" column="24" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="202" column="60" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="204" column="58" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="209" column="45" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="435" column="26" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="440" column="27" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="445" column="26" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="192" column="23" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="272" column="14" filename="$USER_HOME$/golang/src/cliapp/cmd/ipfs.go" />
+      <jump line="306" column="14" filename="$USER_HOME$/golang/src/cliapp/cmd/ipfs.go" />
+      <jump line="450" column="33" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="455" column="32" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="459" column="29" filename="$USER_HOME$/golang/src/cliapp/cmd/init.go" />
+      <jump line="85" column="8" filename="$USER_HOME$/golang/src/bcdaemon/cmds.go" />
+      <jump line="20" column="36" filename="$USER_HOME$/golang/src/bcexplorer/g/logger.go" />
+      <jump line="4" column="0" filename="$USER_HOME$/golang/src/bcexplorer/g/logger.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/golang/src/cliapp/g/logger.go" />
+      <jump line="22" column="0" filename="$USER_HOME$/golang/src/bcexplorer/g/logger.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/golang/src/bcexplorer/g/logger.go" />
+      <jump line="46" column="12" filename="$USER_HOME$/golang/src/cliapp/config/cfg.json" />
+      <jump line="5" column="0" filename="$USER_HOME$/golang/src/cliapp/config/cfg.json" />
+      <jump line="38" column="32" filename="$USER_HOME$/golang/src/cliapp/config/cfg.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/golang/src/cliapp/config/cfg.json" />
+      <jump line="13" column="20" filename="$USER_HOME$/golang/src/bcexplorer/g/logger.go" />
+      <jump line="0" column="6" filename="$USER_HOME$/golang/src/cliapp/g/common.go" />
+      <jump line="48" column="0" filename="$USER_HOME$/golang/src/cliapp/g/cfg.go" />
+      <jump line="27" column="12" filename="$USER_HOME$/golang/src/cliapp/main.go" />
+      <jump line="23" column="0" filename="$USER_HOME$/golang/src/cliapp/main.go" />
+      <jump line="121" column="26" filename="$USER_HOME$/golang/src/bcdaemon/main.go" />
+      <jump line="80" column="19" filename="$USER_HOME$/golang/src/bcdaemon/service.go" />
+      <jump line="65" column="19" filename="$USER_HOME$/golang/src/bcdaemon/service.go" />
+      <jump line="21" column="4" filename="$USER_HOME$/golang/src/bcdaemon/main.go" />
+      <jump line="129" column="14" filename="$USER_HOME$/golang/src/bcdaemon/main.go" />
+      <jump line="127" column="0" filename="$USER_HOME$/golang/src/bcdaemon/main.go" />
+      <jump line="314" column="22" filename="$USER_HOME$/golang/src/bcdaemon/vendor/github.com/kardianos/service/service.go" />
+      <jump line="223" column="0" filename="$USER_HOME$/golang/src/bcdaemon/vendor/github.com/kardianos/service/service.go" />
+      <jump line="43" column="0" filename="$USER_HOME$/golang/src/bcdaemon/main.go" />
+      <jump line="99" column="7" filename="$USER_HOME$/golang/src/bcdaemon/main.go" />
+      <jump line="60" column="0" filename="$USER_HOME$/golang/src/bcdaemon/service.go" />
+      <jump line="59" column="0" filename="$USER_HOME$/golang/src/bcdaemon/service.go" />
+      <jump line="34" column="8" filename="$USER_HOME$/golang/src/bcdaemon/web.go" />
+      <jump line="9" column="16" filename="$USER_HOME$/golang/src/bcdaemon/service.go" />
+      <jump line="35" column="8" filename="$USER_HOME$/golang/src/bcdaemon/web.go" />
+      <jump line="37" column="8" filename="$USER_HOME$/golang/src/bcdaemon/web.go" />
+      <jump line="67" column="19" filename="$USER_HOME$/golang/src/bcdaemon/service.go" />
+      <jump line="36" column="8" filename="$USER_HOME$/golang/src/bcdaemon/web.go" />
+      <jump line="68" column="30" filename="$USER_HOME$/golang/src/bcdaemon/service.go" />
+      <jump line="136" column="18" filename="$USER_HOME$/golang/src/bcdaemon/vendor/github.com/kardianos/service/service.go" />
+      <jump line="257" column="18" filename="$USER_HOME$/golang/src/bcdaemon/vendor/github.com/kardianos/service/service.go" />
+      <jump line="10" column="8" filename="$USER_HOME$/golang/src/somecodes/funcs/big_int.go" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnVuYyBCaWdUKCkgewoJYSA6PSBiaWcuTmV3SW50KDEpCglpcCA6PSBiaWcuTmV3SW50KDIpCglpcC5BZGQoYSwgaXApCglmbXQuUHJpbnRmKCJpcD0ldlxuIiwgaXApCgliIDo9IGJpZy5OZXdJbnQoMikKCWlmIGlwLkNtcChiKSA+IDAgewoJCWZtdC5QcmludGYoIiV2IGJpZ2dlciAldlxuIiwgaXAsIGIpCgl9IGVsc2UgewoJCWZtdC5QcmludGYoIiV2IGJpZ2dlciAldlxuIiwgYiwgaXApCgl9Cn0K</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">c3V2IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>\caddcommand</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZnVuYyBCaWdUKCkgewoJYSA6PSBiaWcuTmV3SW50KDEpCglpcCA6PSBiaWcuTmV3SW50KDIpCglpcC5BZGQoYSwgaXApCglmbXQuUHJpbnRmKCJpcD0ldlxuIiwgaXApCgliIDo9IGJpZy5OZXdJbnQoMikKCWlmIGlwLkNtcChiKSA+IDAgewoJCWZtdC5QcmludGYoIiV2IGJpZ2dlciAldlxuIiwgaXAsIGIpCgl9IGVsc2UgewoJCWZtdC5QcmludGYoIiV2IGJpZ2dlciAldlxuIiwgYiwgaXApCgl9Cn0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dmFyIFByZ0dsb2JhbCAqcHJnCnZhciBTZXJ2aWNlUyBzZXJ2aWNlLlNlcnZpY2UKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CS8vIGZtdC5QcmludGYoIlVwZGF0ZWQgdG8gbmV3IHZlcnNpb246ICVzIVxuIiwgdGFnLlZlcnNpb24pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnVuYyBjaGVja1NlcnZlclN0YXR1cygpIGVycm9yIHsKCXJlc3AsIGVyciA6PSBodHRwLkdldChjZmcuQ2xpZW50LlNlcnZlclVSTCArICIvYXBpL3N0YXR1cyIpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gZXJyCgl9CglkZWZlciByZXNwLkJvZHkuQ2xvc2UoKQoJYm9keSwgZXJyIDo9IGlvdXRpbC5SZWFkQWxsKHJlc3AuQm9keSkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0KCXZhciByZXQgSlNPTlJlc3BvbnNlCgllcnIgPSBqc29uLlVubWFyc2hhbChib2R5LCAmcmV0KQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIGVycm9ycy5OZXcoImpzb24gbG9hZHMgZXJyb3I6ICIgKyBzdHJpbmcoYm9keSkpCgl9CglpZiByZXQuU3RhdHVzICE9IDAgewoJCXJldHVybiBmbXQuRXJyb3JmKCIldiIsIHJldC5WYWx1ZSkKCX0KCXJldHVybiBuaWwKfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgYXBwSUQgPSAiYXBwXzhHamk0ZUVBZER4Igo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnVuYyBtYWluMSgpIHsKCWRlZmVyIGxvZy5EZWJ1ZygibWFpbiBmaW5pc2hlZC4iLCBvcy5HZXRwaWQoKSkKCXZhciBkZWZhdWx0Q29uZmlnUGF0aCA9IGZpbGVwYXRoLkpvaW4oZGVmYXVsdEdvc3V2RGlyLCAiY29uZi9jb25maWcueW1sIikKCWxvZy5QcmludGxuKCJkZWZhdWx0Q29uZmlnUGF0aD0iLCBkZWZhdWx0Q29uZmlnUGF0aCkKCglhcHAgOj0gY2xpLk5ld0FwcCgpCglhcHAuTmFtZSA9ICJnb3N1diIKCWFwcC5WZXJzaW9uID0gdmVyc2lvbgoJYXBwLlVzYWdlID0gImdvbGFuZyBwb3J0IG9mIHB5dGhvbi1zdXBlcnZpc29yIgoJYXBwLkJlZm9yZSA9IGZ1bmMoYyAqY2xpLkNvbnRleHQpIGVycm9yIHsKCQl2YXIgZXJyIGVycm9yCgkJY2ZnUGF0aCA6PSBjLkdsb2JhbFN0cmluZygiY29uZiIpCgkJbG9nLlByaW50bG4oImNmZ1BhdGg9IiwgY2ZnUGF0aCkKCQljZmcsIGVyciA9IHJlYWRDb25mKGNmZ1BhdGgpCgkJaWYgZXJyICE9IG5pbCB7CgkJCWxvZy5GYXRhbChlcnIpCgkJfQoJCXJldHVybiBuaWwKCX0KCWFwcC5BdXRob3JzID0gW11jbGkuQXV0aG9yewoJCWNsaS5BdXRob3J7CgkJCU5hbWU6ICAiem9uZmluIiwKCQkJRW1haWw6ICJ6b25maW5Aem9uZmluLmNvbSIsCgkJfSwKCX0KCWFwcC5GbGFncyA9IFtdY2xpLkZsYWd7CgkJY2xpLlN0cmluZ0ZsYWd7CgkJCU5hbWU6ICAiY29uZiwgYyIsCgkJCVVzYWdlOiAiY29uZmlnIGZpbGUiLAoJCQlWYWx1ZTogZGVmYXVsdENvbmZpZ1BhdGgsCgkJfSwKCX0KCWFwcC5Db21tYW5kcyA9IFtdY2xpLkNvbW1hbmR7CgkJewoJCQlOYW1lOiAgInN0YXJ0LXNlcnZlciIsCgkJCVVzYWdlOiAiU3RhcnQgc3VwZXJ2aXNvciBhbmQgcnVuIGluIGJhY2tncm91bmQiLAoJCQlGbGFnczogW11jbGkuRmxhZ3sKCQkJCWNsaS5Cb29sRmxhZ3sKCQkJCQlOYW1lOiAgImZvcmVncm91bmQsIGYiLAoJCQkJCVVzYWdlOiAic3RhcnQgaW4gZm9yZWdyb3VuZCIsCgkJCQl9LAoJCQkJY2xpLlN0cmluZ0ZsYWd7CgkJCQkJTmFtZTogICJjb25mLCBjIiwKCQkJCQlVc2FnZTogImNvbmZpZyBmaWxlIiwKCQkJCQlWYWx1ZTogZGVmYXVsdENvbmZpZ1BhdGgsCgkJCQl9LAoJCQl9LAoJCQlBY3Rpb246IGFjdGlvblN0YXJ0U2VydmVyLAoJCX0sCgkJewoJCQlOYW1lOiAgICAic3RhdHVzIiwKCQkJQWxpYXNlczogW11zdHJpbmd7InN0In0sCgkJCVVzYWdlOiAgICJTaG93IHByb2dyYW0gc3RhdHVzIiwKCQkJQWN0aW9uOiAgYWN0aW9uU3RhdHVzLAoJCX0sCgkJewoJCQlOYW1lOiAgICJzdGFydCIsCgkJCVVzYWdlOiAgIlN0YXJ0IHByb2dyYW0iLAoJCQlBY3Rpb246IGFjdGlvblN0YXJ0LAoJCX0sCgkJewoJCQlOYW1lOiAgICJzdG9wIiwKCQkJVXNhZ2U6ICAiU3RvcCBwcm9ncmFtIiwKCQkJQWN0aW9uOiBhY3Rpb25TdG9wLAoJCX0sCgkJewoJCQlOYW1lOiAgICJyZWxvYWQiLAoJCQlVc2FnZTogICJSZWxvYWQgY29uZmlnIGZpbGUiLAoJCQlBY3Rpb246IGFjdGlvblJlbG9hZCwKCQl9LAoJCXsKCQkJTmFtZTogICJzaHV0ZG93biIsCgkJCVVzYWdlOiAiU2h1dGRvd24gc2VydmVyIiwKCQkJRmxhZ3M6IFtdY2xpLkZsYWd7CgkJCQljbGkuQm9vbEZsYWd7CgkJCQkJTmFtZTogICJyZXN0YXJ0LCByIiwKCQkJCQlVc2FnZTogInJlc3RhcnQgc2VydmVyKHRvZG8pIiwKCQkJCX0sCgkJCX0sCgkJCUFjdGlvbjogYWN0aW9uU2h1dGRvd24sCgkJfSwKCQl7CgkJCU5hbWU6ICAgICJjb25mdGVzdCIsCgkJCUFsaWFzZXM6IFtdc3RyaW5neyJ0In0sCgkJCVVzYWdlOiAgICJUZXN0IGlmIGNvbmZpZyBmaWxlIGlzIHZhbGlkIiwKCQkJQWN0aW9uOiAgYWN0aW9uQ29uZmlnVGVzdCwKCQl9LAoJCXsKCQkJTmFtZTogICJ1cGRhdGUtc2VsZiIsCgkJCVVzYWdlOiAiVXBkYXRlIGdvc3V2IGl0c2VsZiIsCgkJCUZsYWdzOiBbXWNsaS5GbGFnewoJCQkJY2xpLlN0cmluZ0ZsYWd7CgkJCQkJTmFtZTogICJjaGFubmVsLCBjIiwKCQkJCQlVc2FnZTogInVwZGF0ZSBjaGFubmVsIG5hbWUsIHN0YWJsZSBvciBkZXYiLAoJCQkJCVZhbHVlOiAic3RhYmxlIiwKCQkJCX0sCgkJCQljbGkuQm9vbEZsYWd7CgkJCQkJTmFtZTogICJ5ZXMsIHkiLAoJCQkJCVVzYWdlOiAiRG8gbm90IHByb21vdGUgdG8gY29uZmlybSIsCgkJCQl9LAoJCQl9LAoJCQlBY3Rpb246IGFjdGlvblVwZGF0ZVNlbGYsCgkJfSwKCQl7CgkJCU5hbWU6ICAgImVkaXQiLAoJCQlVc2FnZTogICJFZGl0IGNvbmZpZyBmaWxlIiwKCQkJQWN0aW9uOiBhY3Rpb25FZGl0LAoJCX0sCgkJewoJCQlOYW1lOiAgICAidmVyc2lvbiIsCgkJCVVzYWdlOiAgICJTaG93IHZlcnNpb24iLAoJCQlBbGlhc2VzOiBbXXN0cmluZ3sidiJ9LAoJCQlBY3Rpb246ICBhY3Rpb25WZXJzaW9uLAoJCX0sCgkJewoJCQlOYW1lOiAgICAic2VydmljZSIsCgkJCVVzYWdlOiAgICJzZXJ2aWNlIGNvbW1hbmQiLAoJCQlBbGlhc2VzOiBbXXN0cmluZ3siYyJ9LAoJCQlBY3Rpb246ICBhY3Rpb25TZXJ2aWNlLAoJCX0sCgl9CgoJaWYgZXJyIDo9IGFwcC5SdW4ob3MuQXJncyk7IGVyciAhPSBuaWwgewoJCWxvZy5QcmludGxuKCJhcHAuUnVuIGVycm9yPT4iLCBlcnIpCgkJU2VydmljZVMuU3RvcCgpCgkJb3MuRXhpdCgxKQoJfSBlbHNlIHsKCQlsb2cuUHJpbnRsbigiYXBwLlJ1biBzdWNjZXNzIGFuZCBvdmVyIikKCQlTZXJ2aWNlUy5TdG9wKCkKCX0KfQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>\caddcommand</last-search>
+      <last-offset />
+      <last-pattern>\caddcommand</last-pattern>
+      <last-replace>bcgateway</last-replace>
+      <last-substitute>github.com\/commonAPP</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>main</entry>
+        <entry>rrd</entry>
+        <entry>github.com\/commonAPP</entry>
+        <entry encoding="base64">XDxXcml0ZVNtc01vZGVsXD4=</entry>
+        <entry>auth</entry>
+        <entry encoding="base64">XDxEZXBsb3lJbVN0b3JlQXBpXD4=</entry>
+        <entry>cron</entry>
+        <entry encoding="base64">XDxhdXRoXD4=</entry>
+        <entry encoding="base64">XDxDcmVhdGVSYXdUcmFuc2FjdGlvblw+</entry>
+        <entry>redis</entry>
+        <entry encoding="base64">XDxNYXhRdWV1ZVw+</entry>
+        <entry>panic</entry>
+        <entry>from</entry>
+        <entry>Len</entry>
+        <entry encoding="base64">XDxzaGVsbFVybFw+</entry>
+        <entry>initC</entry>
+        <entry>init</entry>
+        <entry>initchain</entry>
+        <entry>\cinitchain</entry>
+        <entry>\caddcommand</entry>
+      </history-search>
+      <history-cmd>
+        <entry>165</entry>
+        <entry>390</entry>
+        <entry encoding="base64">JzwsJz5zL2MuY2ZnLi90LmNmZy4vZw==</entry>
+        <entry>153</entry>
+        <entry>172</entry>
+        <entry>371</entry>
+        <entry>368</entry>
+        <entry>373</entry>
+        <entry>230</entry>
+        <entry>381</entry>
+        <entry>231</entry>
+        <entry>115</entry>
+        <entry>285</entry>
+        <entry>%s/github.com\/commonAPP/bcgateway/g</entry>
+        <entry>nonumber</entry>
+        <entry>no nu</entry>
+        <entry>set number</entry>
+        <entry>set nu</entry>
+        <entry>set ignorecase</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

@@ -1,0 +1,358 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus" />
+        <option value="$USER_HOME$/golang/src/somecodes" />
+        <option value="$USER_HOME$/golang/src/bcexplorer" />
+        <option value="$USER_HOME$/golang/src/bcdaemon" />
+        <option value="$USER_HOME$/golang/src/cliapp" />
+        <option value="$USER_HOME$/golang/src/github.com/opscli" />
+        <option value="$USER_HOME$/golang/src/github.com/codeskyblue/gosuv" />
+        <option value="$USER_HOME$/golang/src/bcgateway" />
+        <option value="$USER_HOME$/golang/src/github.com/ethereum/go-ethereum" />
+        <option value="$USER_HOME$/golang/src/github.com/ethereum/ecp" />
+        <option value="$USER_HOME$/golang/src/mgweb" />
+        <option value="$USER_HOME$/golang/src/OPMS" />
+        <option value="$USER_HOME$/golang/src/hello" />
+        <option value="$USER_HOME$/golang/src/github.com/ipfsstore" />
+        <option value="$USER_HOME$/golang/src/github.com/open-falcon/fe" />
+        <option value="$USER_HOME$/golang/src/github.com/open-falcon/sender" />
+        <option value="$USER_HOME$/golang/src/github.com/Cepave/ops-meta" />
+        <option value="$USER_HOME$/golang/src/github.com/Cepave/ops-updater" />
+        <option value="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus/modules/agent" />
+        <option value="$USER_HOME$/golang/src/github.com/beego" />
+        <option value="$USER_HOME$/golang/src/github.com/commonAPP" />
+        <option value="$USER_HOME$/golang/src/github.com/kardianos/service" />
+        <option value="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs" />
+        <option value="$USER_HOME$/golang/src/sweb" />
+        <option value="$USER_HOME$/golang/src/workbook" />
+        <option value="$USER_HOME$/coding/ethereum/ECC/eth-tweet" />
+        <option value="$USER_HOME$/coding/ethereum/go-ethereum" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/golang/src/github.com/codeskyblue/gosuv" />
+        <option value="$USER_HOME$/golang/src/bcexplorer" />
+        <option value="$USER_HOME$/golang/src/somecodes" />
+        <option value="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/coding/ethereum/ECC/eth-tweet">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-173.4674.34" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521786799958" />
+              <option name="buildTimestamp" value="1520284387636" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/coding/ethereum/go-ethereum">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-173.2696.28" />
+              <option name="productionCode" value="GO" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506758569160" />
+              <option name="buildTimestamp" value="1506597696326" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/coding/go/old-open-falcon/sender">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523778759451" />
+              <option name="buildTimestamp" value="1523267472988" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/OPMS">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524211646366" />
+              <option name="buildTimestamp" value="1523267517478" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/bcdaemon">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524638800927" />
+              <option name="buildTimestamp" value="1523267472627" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/bcexplorer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524649302109" />
+              <option name="buildTimestamp" value="1523267472627" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/bcgateway">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524561530511" />
+              <option name="buildTimestamp" value="1523267472627" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/cliapp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524637238132" />
+              <option name="buildTimestamp" value="1523267472627" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/Cepave/ops-meta">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523778483850" />
+              <option name="buildTimestamp" value="1523267472988" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/Cepave/ops-updater">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523778461715" />
+              <option name="buildTimestamp" value="1523267472988" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/beego">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4203.567" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523611700588" />
+              <option name="buildTimestamp" value="1522241878703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/codeskyblue/gosuv">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524649302109" />
+              <option name="buildTimestamp" value="1523267472627" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/commonAPP">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4203.567" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523606163124" />
+              <option name="buildTimestamp" value="1522241878703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/ethereum/ecp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524476606056" />
+              <option name="buildTimestamp" value="1523267512429" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/ethereum/go-ethereum">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524557610252" />
+              <option name="buildTimestamp" value="1523267472627" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/ipfs/go-ipfs">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4203.567" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523371012967" />
+              <option name="buildTimestamp" value="1522241878703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/ipfsstore">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524101930769" />
+              <option name="buildTimestamp" value="1523267512643" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/kardianos/service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4203.567" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523538821681" />
+              <option name="buildTimestamp" value="1522241878703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524649302109" />
+              <option name="buildTimestamp" value="1523267472627" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/open-falcon/falcon-plus/modules/agent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4203.567" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523760910622" />
+              <option name="buildTimestamp" value="1522241828903" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/open-falcon/fe">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523848237673" />
+              <option name="buildTimestamp" value="1523267512643" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/open-falcon/sender">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523800661906" />
+              <option name="buildTimestamp" value="1523267461575" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/github.com/opscli">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524622557252" />
+              <option name="buildTimestamp" value="1523267472627" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/hello">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524193284911" />
+              <option name="buildTimestamp" value="1523267512643" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/mgweb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524446306328" />
+              <option name="buildTimestamp" value="1523267500004" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/somecodes">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4445.70" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524649302109" />
+              <option name="buildTimestamp" value="1523267472627" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/sweb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-181.4203.567" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522735669382" />
+              <option name="buildTimestamp" value="1522241841822" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/golang/src/workbook">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-173.4674.34" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522301624755" />
+              <option name="buildTimestamp" value="1520284428811" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

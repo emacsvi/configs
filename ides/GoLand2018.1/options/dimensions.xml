@@ -1,0 +1,28 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2880.1800@192dpi" x="1438" y="806" />
+    <location key="SettingsEditor.0.0.2880.1800@192dpi" x="458" y="158" />
+    <location key="#HTTP_Proxy.0.0.2880.1800@192dpi" x="992" y="380" />
+    <location key="#Browse_Repositories.0.0.2880.1800@192dpi" x="614" y="226" />
+    <location key="find.popup.0.0.2880.1800@192dpi" x="606" y="546" />
+    <location key="#GOROOT.0.0.2880.1800@192dpi" x="1040" y="808" />
+    <location key="#Vim_Emulation.0.0.2880.1800@192dpi" x="968" y="356" />
+    <location key="#Notifications.0.0.2880.1800@192dpi" x="968" y="352" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2880.1800@192dpi" x="900" y="510" />
+    <location key="#Vendoring_&amp;_Build_Tags.0.0.2880.1800@192dpi" x="992" y="362" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2880.1800@192dpi" x="400" y="230" />
+    <location key="find.popup.0.0.5120.2880@192dpi" x="2126" y="476" />
+    <location key="SettingsEditor.0.0.5120.2880@192dpi" x="1680" y="376" />
+    <location key="FileChooserDialogImpl.0.0.5120.2880@192dpi" x="3416" y="986" />
+    <location key="WELCOME_SCREEN.0.0.5120.2880@192dpi" x="2558" y="1166" />
+    <location key="#Browse_Repositories.0.0.5120.2880@192dpi" x="718" y="722" />
+    <location key="EditFileWatcherDialog.0.0.5120.2880@192dpi" x="1450" y="1102" />
+    <location key="scopes.0.0.5120.2880@192dpi" x="1748" y="1500" />
+    <location key="#com.intellij.ide.util.ExportDialog.0.0.5120.2880@192dpi" x="1836" y="926" />
+    <size key="find.popup.0.0.2880.1800@192dpi" width="1878" height="1254" />
+    <size key="#Vendoring_&amp;_Build_Tags.0.0.2880.1800@192dpi" width="896" height="1086" />
+    <size key="find.popup.0.0.5120.2880@192dpi" width="1430" height="1290" />
+    <size key="EditFileWatcherDialog.0.0.5120.2880@192dpi" width="1514" height="1436" />
+    <size key="SettingsEditor.0.0.5120.2880@192dpi" width="1706" height="2158" />
+  </component>
+</application>
